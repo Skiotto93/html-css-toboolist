@@ -42,14 +42,134 @@ h1 {
 
 #stbutton {
     background-color: #45ABEA;
-    border-radius: 20%;
+    border-radius: 10%;
     height: 35px;
     width: 90px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
 }
 
 #other{
     background-color: white;
-    border-radius: 20%;
+    border-radius: 10%;
     height: 35px;
     width: 90px;
+    color: grey;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+}
+
+.ndcontainer {
+    background-color: white;
+    margin: auto;
+    max-width: 800px;
+    margin-top: 5px;
+}
+
+.title {
+    margin-left: 60px;
+    display: inline-block;
+}
+
+h3 {
+    display: inline-block;
+}
+
+.tdcontainer {
+    background-color: white;
+    margin: auto;
+    max-width: 800px;
+}
+
+.circle {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.circle-check {
+    color: green;
+    border-color: green;
+    display: inline-block;
+
+}
+
+.word {
+    display: inline-block;
+}
+
+.editorial {
+    background-color: #45ABEA;
+    border-radius: 30%;
+    height: 35px;
+    width: 90px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.circle-cross {
+    color: red;
+    border-color: red;
+}
+
+#today {
+    margin-top: 0;
+}
+
+#Q1 {
+    background-color: #9C72E4;
+    border-radius: 30%;
+    height: 35px;
+    width: 90px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#Recruiting {
+    background-color: #64C0A9;
+    border-radius: 30%;
+    height: 35px;
+    width: 90px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#mobile {
+    background-color:#F29E33;
+    border-radius: 30%;
+    height: 35px;
+    width: 90px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#website {
+    background-color:  #D863A1;
+    border-radius: 30%;
+    height: 35px;
+    width: 90px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#sales {
+    background-color:  #B0C926;
+    border-radius: 30%;
+    height: 35px;
+    width: 90px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
 }
