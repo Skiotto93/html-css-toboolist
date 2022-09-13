@@ -9,6 +9,8 @@ body {
     background-color: #F6F8F9;
 }
 
+/*header*/
+
 header {
     padding: 10px 20px;
     background-color: white;
@@ -21,4 +23,33 @@ h1 {
 
 #logo {
     vertical-align: middle;
+}
+
+/*main*/
+
+.container {
+    background-color: white;
+    margin: auto;
+    max-width: 800px;
+    margin-top: 50px;
+}
+
+.button {
+    height: 70px;
+    padding: 15px;
+    margin-left: 60px;   
+}
+
+#stbutton {
+    background-color: #45ABEA;
+    border-radius: 20%;
+    height: 35px;
+    width: 90px;
+}
+
+#other{
+    background-color: white;
+    border-radius: 20%;
+    height: 35px;
+    width: 90px;
 }
